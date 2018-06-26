@@ -9,3 +9,5 @@ class Hero
     @bio = args[:bio]
     HEROES << self
   end
+
+end
